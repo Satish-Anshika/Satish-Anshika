@@ -9,6 +9,8 @@
 <a href="https://github.com/Satish-Anshika"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-240046?style=for-the-badge&logo=github&logoColor=E0AAFF" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/anshikasatish/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
+<img src="floaties.svg" width="100%" alt=""/>
+
 </div>
 
 <img src="sparkle-divider.svg" width="100%" alt=""/>
@@ -102,11 +104,14 @@ $ _
 <h3 align="center">🌙 <code>08 / BEYOND THE TERMINAL</code></h3>
 
 <p align="center">
-<img src="cat.svg" width="240" alt="A sleepy pixel cat"/><br/>
+<img src="cat.svg" width="340" alt="A sleepy pixel cat floating on a cloud"/><br/>
+<img src="cuties.svg" width="420" alt="Cute pixel heart, ghost, star and mushroom"/><br/>
 <i>Curiosity doesn't always follow a roadmap.<br/>Somewhere between imagination, experimentation and figuring things out.</i>
 </p>
 
 <div align="center">
+
+<img src="floaties.svg" width="100%" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=Still+exploring.;Still+building.;Always+under+construction.+%E2%99%A1" alt="Still exploring. Still building. Always under construction."/>
 
