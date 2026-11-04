@@ -11,7 +11,7 @@
 
 </div>
 
-<img src="assets/sparkle-divider.svg" width="100%" alt=""/>
+<img src="sparkle-divider.svg" width="100%" alt=""/>
 
 <h3 align="center">✨ <code>01 / ABOUT ME</code> ✨</h3>
 
@@ -22,17 +22,17 @@ Currently exploring software engineering, machine learning and application secur
 <i>Somewhere between logic and creativity.</i>
 </p>
 
-<img src="assets/sparkle-divider.svg" width="100%" alt=""/>
+<img src="sparkle-divider.svg" width="100%" alt=""/>
 
 <h3 align="center">🚀 <code>02 / WHAT I'M BUILDING</code></h3>
 
 <p align="center">
-<a href="https://github.com/Satish-Anshika/gatelog-app"><img src="assets/project-gatelog.svg" width="32%" alt="GateLog - role-based campus parcel tracking system"/></a>
-<a href="https://github.com/Satish-Anshika/MarkAnalyzer"><img src="assets/project-markanalyzer.svg" width="32%" alt="MarkAnalyzer - academic performance analysis concept"/></a>
-<a href="https://github.com/Satish-Anshika/to-do-list"><img src="assets/project-todo.svg" width="32%" alt="To-do List - simple productivity app"/></a>
+<a href="https://github.com/Satish-Anshika/gatelog-app"><img src="project-gatelog.svg" width="32%" alt="GateLog - role-based campus parcel tracking system"/></a>
+<a href="https://github.com/Satish-Anshika/MarkAnalyzer"><img src="project-markanalyzer.svg" width="32%" alt="MarkAnalyzer - academic performance analysis concept"/></a>
+<a href="https://github.com/Satish-Anshika/to-do-list"><img src="project-todo.svg" width="32%" alt="To-do List - simple productivity app"/></a>
 </p>
 
-<img src="assets/sparkle-divider.svg" width="100%" alt=""/>
+<img src="sparkle-divider.svg" width="100%" alt=""/>
 
 <h3 align="center">🧪 <code>03 / CURRENTLY EXPLORING</code></h3>
 
@@ -43,7 +43,7 @@ Currently exploring software engineering, machine learning and application secur
 ✨ <b>Random Experiments</b> — because curiosity doesn't have a fixed syllabus
 </p>
 
-<img src="assets/sparkle-divider.svg" width="100%" alt=""/>
+<img src="sparkle-divider.svg" width="100%" alt=""/>
 
 <h3 align="center">🔧 <code>04 / MY TOOLBOX</code></h3>
 
@@ -55,7 +55,7 @@ Currently exploring software engineering, machine learning and application secur
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub"/>
 </p>
 
-<img src="assets/sparkle-divider.svg" width="100%" alt=""/>
+<img src="sparkle-divider.svg" width="100%" alt=""/>
 
 <h3 align="center">💻 <code>05 / TERMINAL SESSION</code></h3>
 
@@ -75,7 +75,7 @@ $ ./next-big-idea.sh
 $ _
 ```
 
-<img src="assets/sparkle-divider.svg" width="100%" alt=""/>
+<img src="sparkle-divider.svg" width="100%" alt=""/>
 
 <h3 align="center">📈 <code>06 / GITHUB ACTIVITY</code></h3>
 
@@ -83,7 +83,7 @@ $ _
 <img src="https://streak-stats.demolab.com?user=Satish-Anshika&hide_border=true&background=0D0618&ring=C77DFF&fire=9D4EDD&currStreakLabel=E0AAFF&sideLabels=E0AAFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9370DB" width="65%" alt="GitHub streak"/>
 </p>
 
-<img src="assets/sparkle-divider.svg" width="100%" alt=""/>
+<img src="sparkle-divider.svg" width="100%" alt=""/>
 
 <h3 align="center">🐍 <code>07 / THE CODE CRAWLER</code></h3>
 
@@ -97,12 +97,12 @@ $ _
 <i>Apparently, even my contributions need chasing.</i>
 </p>
 
-<img src="assets/sparkle-divider.svg" width="100%" alt=""/>
+<img src="sparkle-divider.svg" width="100%" alt=""/>
 
 <h3 align="center">🌙 <code>08 / BEYOND THE TERMINAL</code></h3>
 
 <p align="center">
-<img src="assets/cat.svg" width="240" alt="A sleepy pixel cat"/><br/>
+<img src="cat.svg" width="240" alt="A sleepy pixel cat"/><br/>
 <i>Curiosity doesn't always follow a roadmap.<br/>Somewhere between imagination, experimentation and figuring things out.</i>
 </p>
 
